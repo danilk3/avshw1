@@ -1,0 +1,19 @@
+Отчет с характеристиками
+
+cartoon.h (1005 байт)
+constants.h (158 байта)
+container.h (1019 байт)
+documentary.h (1026 байт)
+fiction.h (915 байт)
+movie.h (799 байт)
+randomGenerator.h (219 байт)
+
+cartoon.cpp (1184 байт)
+container.cpp (2101 байт)
+documentary.cpp (1202 байт)
+fiction.cpp (1193 байт)
+movie.cpp (2896 байт)
+randomGenerator.cpp (384 байт)
+main.cpp (2183 байт)
+
+Всего: 16243 байта
