@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with cpp/randomGenerator.cpp
+cctype
+-
+../Files with h/randomGenerator.h
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with h/randomGenerator.h
+
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with h/constants.h
+
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with h/randomGenerator.h
+constants.h
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with h/constants.h
+stdlib.h
+C:/Users/dahil/Desktop/AVSHomework1/avs/Movies/Files with h/stdlib.h
+
